@@ -2,7 +2,6 @@
 
 Estudante do 5º período de **Ciência da Computação (UFF)**.  
 Interesse em **ciência de dados**, **engenharia de software** e **inteligência artificial**.
-Apaixonado por tecnologia e programação.
 
 ---
 
