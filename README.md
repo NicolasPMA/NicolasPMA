@@ -18,7 +18,7 @@ Interesse em **ciência de dados**, **engenharia de software** e **inteligência
 ---
 
 ## 📚 Estudando atualmente
-- C · C++ · R · SQL · Python
+- C · C++ · R · SQL · Python · HTML · CSS · JS
 
 ---
 
