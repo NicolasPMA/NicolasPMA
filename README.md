@@ -15,14 +15,10 @@ Interesse em **ciência de dados**, **engenharia de software** e **inteligência
   <img src="https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
-
-
 ---
 
 ## 📚 Estudando atualmente
 - C · C++ · R · SQL · Python · HTML · CSS · JS · n8n
-
----
 
 ## 📊 Linguagens mais usadas
 <p>
