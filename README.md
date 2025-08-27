@@ -19,8 +19,13 @@ Interesse em **ciência de dados**, **engenharia de software** e **inteligência
 - C · C++ · R · SQL · Python · HTML · CSS · JS · n8n
 
 ## 📊 Linguagens mais usadas
+
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasPMA&layout=compact&langs_count=6&hide=html,css,scss,blade,batchfile,shell,dockerfile,jupyter%20notebook&theme=algolia"/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasPMA&layout=compact&langs_count=8&hide=html,css,scss,blade,batchfile,shell,dockerfile,jupyter%20notebook&theme=algolia&cache_seconds=1800&v=2"
+  />
 </p>
+
 
 ---
