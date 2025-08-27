@@ -8,6 +8,7 @@ Apaixonado por tecnologia e programação.
 
 ## 🛠️ Hard Skills
 
+<!--
 <p align="left">
   <img height="42" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img height="42" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -15,8 +16,8 @@ Apaixonado por tecnologia e programação.
   <img height="42" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img height="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
+-->
 
-<!--
 Opção 2 (se preferir tudo no mesmo "visual"): badges do Shields, descomente e comente o bloco acima.
 <p>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
@@ -24,11 +25,7 @@ Opção 2 (se preferir tudo no mesmo "visual"): badges do Shields, descomente e 
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
 </p>
--->
 
 ---
 
