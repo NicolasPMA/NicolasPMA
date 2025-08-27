@@ -13,8 +13,9 @@ Interesse em **ciência de dados**, **engenharia de software** e **inteligência
   <img height="42" alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
   <img height="42" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img height="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img height="42" alt="n8n" src="https://raw.githubusercontent.com/n8n-io/n8n/develop/assets/n8n-logo.svg"/>
+  <img height="42" alt="n8n" src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-icon.svg"/>
 </p>
+
 
 ---
 
